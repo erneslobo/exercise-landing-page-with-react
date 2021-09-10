@@ -18,9 +18,9 @@ const App = () => {
 	return (
 		<div className="container-fluid px-0">
 			<Navbar />
-			<div className="my-4 mx-5 px-0">
+			<div className="my-5 mx-5 px-0">
 				<Jumbotron />
-				<div className="d-flex flex-wrap justify-content-between mt-4">
+				<div className="d-flex flex-wrap justify-content-between my-5">
 					<Card />
 					<Card />
 					<Card />
